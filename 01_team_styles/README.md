@@ -155,3 +155,12 @@ Future versions could include:
 - Seaborn
 - Google Colab
 - GitHub
+
+## Key Takeaways
+
+- Teams can be grouped into broad statistical profiles using relatively simple match data.
+- The High-Output / Strong Performance group recorded the highest attacking output and strongest defensive numbers among the three clusters.
+- The Aggressive High-Activity group combined relatively high shot and corner activity with higher disciplinary involvement.
+- The Lower-Output / Struggling group showed lower attacking output and higher goals conceded.
+- Manchester United was classified in the High-Output / Strong Performance group because of its strong attacking volume and goal output.
+- The clustering should be interpreted as a statistical profile rather than a definitive description of tactical style.
