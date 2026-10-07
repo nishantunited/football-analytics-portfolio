@@ -52,6 +52,10 @@ The 3-cluster solution was therefore selected for the final analysis.
 
 The average silhouette score across multiple random seeds was approximately 0.28, indicating that the clusters provide useful broad groupings but also have some overlap.
 
+## Visualisation
+
+![Premier League Team Styles — PCA & K-Means Clustering](outputs/premier_league_team_styles_pca.png)
+
 ## Results
 
 ### 1. High-Output / Strong Performance
